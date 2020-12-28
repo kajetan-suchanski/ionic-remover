@@ -5,6 +5,10 @@ will display a summary of how many files have been processed. Most importantly, 
 generated React components or div class names (depending on the conversion settings you choose) so you can easily do
 further framework migration.
 
+## The reason
+
+The reason why I wrote this program is described in [this article](https://levelup.gitconnected.com/the-pursuit-of-the-cross-platform-holy-grail-part-1-ionic-2d56b640a6b3).
+
 ## Help
 
 ```
